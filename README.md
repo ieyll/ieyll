@@ -45,10 +45,10 @@ Here are some repositories I’ve built that demonstrate my skills and passion:
 I also write technical and professional articles on [Medium](https://medium.com/@ilbariseylul).  
 Here are a couple you might find interesting:
 
-- **[Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu]**
+- **Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu**
   A reflection on career values and expectations in the modern workforce.
 
-- **[Sıfırdan Veri Dünyası: Veri ve Veritabanı Temelleri]**  
+- **Sıfırdan Veri Dünyası: Veri ve Veritabanı Temelleri**  
   An introduction to data concepts and database fundamentals.
 
 Read more on my Medium profile: https://medium.com/@ilbariseylul
@@ -57,7 +57,7 @@ Read more on my Medium profile: https://medium.com/@ilbariseylul
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([[https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com](in/eylulilbaris/)](https://www.linkedin.com/in/eylulilbaris/))  
+[![LinkedIn](https://www.linkedin.com/in/eylulilbaris/)
 
 ---
 
