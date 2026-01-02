@@ -45,10 +45,10 @@ Here are some repositories I’ve built that demonstrate my skills and passion:
 I also write technical and professional articles on [Medium](https://medium.com/@ilbariseylul).  
 Here are a couple you might find interesting:
 
-- **[Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu](https://medium.com/@ilbariseylul/maaş-değil-anlam-z-kuşağının-iş-dünyası-manifestosu)**  
+- **[Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu]([https://medium.com/@ilbariseylul/maaş-değil-anlam-z-kuşağının-iş-dünyası-manifestosu](https://medium.com/@ilbariseylul/maa%C5%9F-de%C4%9Fil-anlam-z-ku%C5%9Fa%C4%9F%C4%B1n%C4%B1n-i%CC%87%C5%9F-d%C3%BCnyas%C4%B1-manifestosu-a408fa8f4d01))**  
   A reflection on career values and expectations in the modern workforce.
 
-- **[Sıfırdan Veri Dünyası: Veri ve Veritabanı Temelleri](https://medium.com/@ilbariseylul/sıfırdan-veri-dünyası-veri-ve-veritabanı-temelleri)**  
+- **[Sıfırdan Veri Dünyası: Veri ve Veritabanı Temelleri]([https://medium.com/@ilbariseylul/sıfırdan-veri-dünyası-veri-ve-veritabanı-temelleri](https://medium.com/@ilbariseylul/s%C4%B1f%C4%B1rdan-veri-d%C3%BCnyas%C4%B1-veri-ve-veritaban%C4%B1-temelleri-0529b0195ece))**  
   An introduction to data concepts and database fundamentals.
 
 Read more on my Medium profile: https://medium.com/@ilbariseylul
