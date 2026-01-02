@@ -58,7 +58,8 @@ Read more on my Medium profile: https://medium.com/@ilbariseylul
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eylulilbaris/)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/eylulilbaris/
+- ✍️ Medium: https://medium.com/@ilbariseylul
 
 ---
 
