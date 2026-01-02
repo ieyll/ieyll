@@ -20,7 +20,7 @@ I enjoy building desktop and mobile applications, learning new technologies, and
 - C#, Kotlin, SQL, Python, PHP
 
 ### Frameworks & Platforms
-- Windows Forms, Android
+- Windows Forms, Android, Power BI
 
 ### Databases
 - MSSQL, MySQL, PostgreSQL
