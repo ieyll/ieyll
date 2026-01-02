@@ -17,13 +17,13 @@ I enjoy building desktop and mobile applications, learning new technologies, and
 ## 🔧 Technologies & Tools
 
 ### Languages
-- C#, Kotlin, SQL
+- C#, Kotlin, SQL, Python, PHP
 
 ### Frameworks & Platforms
 - Windows Forms, Android
 
 ### Databases
-- MSSQL, MySQL
+- MSSQL, MySQL, PostgreSQL
 
 ---
 
