@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi there, I'm Eylül!
 
 I’m a Computer Programming graduate from Karadeniz Technical University.  
@@ -43,10 +40,24 @@ Here are some repositories I’ve built that demonstrate my skills and passion:
 *(More projects coming soon!)*
 
 ---
+## 📝 Articles on Medium
+
+I also write technical and professional articles on [Medium](https://medium.com/@ilbariseylul).  
+Here are a couple you might find interesting:
+
+- **[Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu](https://medium.com/@ilbariseylul/maaş-değil-anlam-z-kuşağının-iş-dünyası-manifestosu)**  
+  A reflection on career values and expectations in the modern workforce.
+
+- **[Sıfırdan Veri Dünyası: Veri ve Veritabanı Temelleri](https://medium.com/@ilbariseylul/sıfırdan-veri-dünyası-veri-ve-veritabanı-temelleri)**  
+  An introduction to data concepts and database fundamentals.
+
+Read more on my Medium profile: https://medium.com/@ilbariseylul
+
+---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com)  
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com](in/eylulilbaris/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ieyll)
 
 ---
@@ -57,4 +68,3 @@ Here are some repositories I’ve built that demonstrate my skills and passion:
 - Firebase real-time systems
 - Introduction to Machine Learning
 
--->
