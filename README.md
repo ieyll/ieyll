@@ -42,7 +42,7 @@ Here are some repositories I’ve built that demonstrate my skills and passion:
 ---
 ## 📝 Articles on Medium
 
-I also write technical and professional articles on [Medium](https://medium.com/@ilbariseylul).  
+I also write technical and professional articles on Medium.  
 Here are a couple you might find interesting:
 
 - **Maaş Değil, Anlam: Z Kuşağının İş Dünyası Manifestosu**
@@ -58,9 +58,7 @@ Read more on my Medium profile: https://medium.com/@ilbariseylul
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eylulilbaris/)
-[![Medium](https://img.shields.io/badge/Medium-Connect-blue)](https://www.medium.com/ilbariseylul/)
-- 💼 LinkedIn: https://www.linkedin.com/in/eylulilbaris/
-- ✍️ Medium: https://medium.com/@ilbariseylul
+[![Medium](https://img.shields.io/badge/Medium-Connect-blue)](https://www.medium.com/@ilbariseylul/)
 
 ---
 
