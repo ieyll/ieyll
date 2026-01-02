@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Eylül!
 
-I’m a Computer Programming graduate from Karadeniz Technical University.  
+I'm a Computer Programming student at Karadeniz Technical University.  
 I enjoy building desktop and mobile applications, learning new technologies, and solving real-world problems.
 
 ---
